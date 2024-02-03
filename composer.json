@@ -1,0 +1,9 @@
+{
+    "name": "emmanuel/hotel",
+    "autoload": {
+        "psr-4": {
+            "Hotel\\": "src/"
+        }
+    },
+    "require": {}
+}
